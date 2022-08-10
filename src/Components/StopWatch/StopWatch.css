@@ -1,0 +1,28 @@
+.stop-watch {
+    height: 100vh;
+    width: innerWidth;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.stop-watchDark {
+    height: 100vh;
+    width: innerWidth;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.modal-body {
+    text-align: center;
+    font-size: 35px;
+}
+
+.button{
+    align-items: right;
+}
